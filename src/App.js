@@ -48,8 +48,7 @@ function App() {
           <footer>
             <span className="text-danger">
               <strong>
-                This site is copyright &copy; to LTI. All rights are reserved
-                here ..!
+                All Rights Reserved. Copyright!
               </strong>
             </span>
           </footer>
